@@ -9,4 +9,4 @@ motivated to create a web scraping app to check if there is release promptly.
 The motivation comes from firstly, the possibility of getting the tickets for
 my partner and myself, who are Jay Chou's fans but haven't ever watched his live
 concerts; and secondly, the opportunity to learn and apply web scraping skills
-to solve an interesting real world problem
+to solve an interesting real world problem.
